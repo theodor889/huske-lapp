@@ -45,8 +45,9 @@
 # github
 - git init
 - git add .   føre med alle mappen du vil legg til 
-- git commit -m   "første commit" lagrede endringerne i git 
+- git commit -m "første commit"   lagrede endringerne i git 
 - git push -u origin main   pushe til github
 - git pull   henter date fra github
+- git clone  en ekster en hete til en en en inne  
 - 
 
