@@ -42,3 +42,11 @@
 - ps / top / htop viser ative prosesser 
 - df viser hvilken buker som er på enhten 
 - apt pakeinhole for å instaler det 
+# github
+- git init
+- git add .   føre med alle mappen du vil legg til 
+- git commit -m   "første commit" lagrede endringerne i git 
+- git push -u origin main   pushe til github
+- git pull   henter date fra github
+- 
+
