@@ -49,5 +49,5 @@
 - git push -u origin main   pushe til github
 - git pull   henter date fra github
 - git clone  en ekster en hete til en en en inne  
-- 
+
 
